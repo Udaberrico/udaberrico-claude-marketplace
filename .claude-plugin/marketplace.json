@@ -1,0 +1,17 @@
+{
+  "name": "claude-glitchtip",
+  "description": "GlitchTip error monitoring integration for Claude Code",
+  "owner": {
+    "name": "Dominik Lenz"
+  },
+  "plugins": [
+    {
+      "name": "glitchtip",
+      "description": "Fetch and analyze issues, stack traces, and error context from your GlitchTip instance",
+      "source": "./plugins/glitchtip",
+      "version": "1.0.0",
+      "category": "monitoring",
+      "tags": ["glitchtip", "error-tracking", "monitoring", "debugging"]
+    }
+  ]
+}

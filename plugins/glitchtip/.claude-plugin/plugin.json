@@ -1,0 +1,7 @@
+{
+  "name": "glitchtip",
+  "description": "GlitchTip error monitoring integration. Fetch and analyze issues, stack traces, and error context from your GlitchTip instance.",
+  "author": {
+    "name": "Dominik Lenz"
+  }
+}
