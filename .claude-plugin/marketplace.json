@@ -1,6 +1,6 @@
 {
-  "name": "claude-glitchtip",
-  "description": "GlitchTip error monitoring integration for Claude Code",
+  "name": "udaberrico-claude-marketplace",
+  "description": "Udaberri plugin marketplace for Claude Code",
   "owner": {
     "name": "Dominik Lenz"
   },

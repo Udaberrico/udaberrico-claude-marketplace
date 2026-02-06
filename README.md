@@ -6,8 +6,12 @@ Fetch and analyze issues, stack traces, and error context directly from your Gli
 
 ## Installation
 
-```
-/install-plugin Udaberrico/claude-glitchtip
+```bash
+# Add the plugin marketplace
+claude plugin marketplace add Udaberrico/udaberrico-claude-marketplace
+
+# Install the GlitchTip plugin
+claude plugin install glitchtip@udaberrico-claude-marketplace
 ```
 
 ## Setup
