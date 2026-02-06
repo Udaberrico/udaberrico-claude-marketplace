@@ -1,7 +1,7 @@
 {
   "glitchtip": {
-    "command": "npx",
-    "args": ["-y", "mcp-glitchtip"],
+    "command": "node",
+    "args": ["${PLUGIN_DIR}/bundle.mjs"],
     "env": {
       "GLITCHTIP_TOKEN": "${GLITCHTIP_TOKEN}",
       "GLITCHTIP_ORGANIZATION": "${GLITCHTIP_ORGANIZATION}",
