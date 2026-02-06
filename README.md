@@ -7,7 +7,7 @@ Fetch and analyze issues, stack traces, and error context directly from your Gli
 ## Installation
 
 ```
-/install-plugin yourusername/claude-glitchtip
+/install-plugin Udaberrico/claude-glitchtip
 ```
 
 ## Setup
